@@ -1,9 +1,8 @@
 #!/usr/bin/python3
 
-import add_0 as add
-
 # Entry point for the script
 if __name__ == '__main__':
+    import add_0 as add
     a = 1
     b = 2
 
